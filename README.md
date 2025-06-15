@@ -2,7 +2,7 @@
 
 ![Surface Rover Preview](rover_preview.jpg)
 
-A lightweight **Autonomous Surface Rover** built to collect floating waste and monitor water surfaces. Designed for environmental cleanup and real-time inspection in lakes and rivers.
+A amphibious **Autonomous Surface Rover** built to collect floating waste and monitor water surfaces. Designed for environmental cleanup and real-time inspection in lakes and rivers.
 
 ---
 
